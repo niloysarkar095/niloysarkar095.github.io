@@ -1,0 +1,8 @@
+{
+    "android": {
+          "minVersionCode": 1,
+          "latestVersionCode": 1,
+          "nudge": false,
+          "message": ""
+    }
+}
